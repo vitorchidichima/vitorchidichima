@@ -18,6 +18,6 @@ Meus projetos são a forma que encontrei de aplicar na prática o que aprendo, c
 ---
 
 ## Conecte-se comigo 📬
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/vitor-chidichima-099180304/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-chidichima-099180304/) 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vitorchidichima@gmail.com)
 
